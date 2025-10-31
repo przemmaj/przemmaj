@@ -2,6 +2,10 @@
 ✨ Special GitHub Profile README for przemmaj ✨
 -->
 
+<p align="center">
+  <img src="assets/header.png" alt="Przemek 'Shemmy' Majewski GitHub banner" width="100%">
+</p>
+
 # 👋 Hi, I’m Przemek “Shemmy” Majewski  
 
 **Founder & AI Strategist • CEO @ [DLabs.AI](https://dlabs.ai)**  
