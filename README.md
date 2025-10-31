@@ -3,8 +3,9 @@
 -->
 
 <p align="center">
-  <img src="assets/header.png" alt="Przemek 'Shemmy' Majewski GitHub banner" width="100%">
+  <img src="assets/header.png" alt="Przemek 'Shemmy' Majewski GitHub banner" width="75%" style="max-height:180px; object-fit:contain;">
 </p>
+
 
 # 👋 Hi, I’m Przemek “Shemmy” Majewski  
 
